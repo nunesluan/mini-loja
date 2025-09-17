@@ -14,8 +14,8 @@ Este repositório contém o projeto referente à **Atividade 6**, cujo objetivo 
 ## 🚀 Funcionalidades
 
 - Consumo da API [FakestoreAPI](https://fakestoreapi.com/) para buscar e exibir produtos.
-- Página com **Navbar** para navegar entre os 4 tipos de estilização.
-- Exibição dos produtos com layout adaptado conforme a técnica de estilização escolhida.
+- **Navegação pela Navbar na página principal** para alternar entre os 4 tipos de estilização.
+- Exibição dinâmica dos produtos com layout adaptado conforme a técnica de estilização escolhida.
 
 ---
 
@@ -32,13 +32,9 @@ Este repositório contém o projeto referente à **Atividade 6**, cujo objetivo 
 ## ▶️ Como executar o projeto
 
 1. Clone este repositório:
-
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
-
-
    ```
-
 2. Acesse a pasta do projeto:
 
 cd nome-do-repo
