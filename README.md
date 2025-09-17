@@ -1,12 +1,28 @@
-# React + Vite
+# 🛍️ Mini Loja - Atividade 6
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Olá! 👋
 
-Currently, two official plugins are available:
+Este repositório contém o projeto referente à **Atividade 6**, cujo objetivo é criar uma mini loja utilizando **React + JavaScript** com **4 tipos de estilizações diferentes**:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **CSS Global**
+2. **CSS Modules**
+3. **Tailwind CSS**
+4. **styled-components**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Funcionalidades
+
+- Consumo da API [FakestoreAPI](https://fakestoreapi.com/) para buscar e exibir produtos.
+- Página com **Navbar** para navegar entre os 4 tipos de estilização.
+- Exibição dos produtos com layout adaptado conforme a técnica de estilização escolhida.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- [React](https://react.dev/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [styled-components](https://styled-components.com/)
+- [FakestoreAPI](https://fakestoreapi.com/)

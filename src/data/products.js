@@ -7,7 +7,7 @@ export function fetchProducts(setProducts) {
         title: item.title,
         price: item.price,
         rating: Math.round(item.rating.rate),
-        tag: item.category, // ou qualquer outra tag que desejar
+        tag: item.category,
         image: item.image,
       }));
       setProducts(formatted);

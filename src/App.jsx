@@ -1,7 +1,6 @@
 import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 
-// Pages (cada página importa a versão correspondente)
 import CssGlobalPage from "./versions/css-global/src/App";
 import CssModulesPage from "./versions/css-modules/src/App";
 import TailwindPage from "./versions/tailwind/src/App";
