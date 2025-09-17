@@ -26,3 +26,29 @@ Este repositório contém o projeto referente à **Atividade 6**, cujo objetivo 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [styled-components](https://styled-components.com/)
 - [FakestoreAPI](https://fakestoreapi.com/)
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repo.git
+
+
+   ```
+
+2. Acesse a pasta do projeto:
+
+cd nome-do-repo
+
+3. Instale as dependências:
+
+npm install
+
+4. Execute o servidor de desenvolvimento:
+
+npm run dev
+
+O projeto estará disponível em: http://localhost:5173/
