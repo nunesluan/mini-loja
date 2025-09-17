@@ -33,7 +33,7 @@ Este repositório contém o projeto referente à **Atividade 6**, cujo objetivo 
 
 ```bash
 # 1. Clone este repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/nunesluan/mini-loja.git
 
 # 2. Acesse a pasta do projeto
 cd nome-do-repo
